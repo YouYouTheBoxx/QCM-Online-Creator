@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
 <link rel="stylesheet" type="text/css" href="styles/menu.css">
 </head>
@@ -10,4 +9,3 @@
     </ul>
   </nav>
 </header>
-</html>
